@@ -34,3 +34,4 @@ build/
 /src/main/resources/static_bkp
 /src/main/resources/application.properties
 /out/
+/logs/
