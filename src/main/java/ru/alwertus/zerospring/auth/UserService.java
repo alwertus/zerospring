@@ -2,6 +2,9 @@ package ru.alwertus.zerospring.auth;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -14,7 +17,7 @@ import java.util.Set;
 @Log4j2
 @Service
 @Transactional // без него при удалении падает ошибка
-public class UserService {
+public class UserService implements UserDetailsService {
 
     private BCryptPasswordEncoder passwordEncoder;
     private UserRepo userRepo;
@@ -43,7 +46,7 @@ public class UserService {
     // Создать нового пользователя
     public User createUser(String name, String password) {
         log.info("Add user: " + name);
-        User newUser = userRepo.findByName(name).orElse(new User(name, password, defaultRole));
+        User newUser = userRepo.findByName(name).orElse(new User(name, passwordEncoder.encode(password), defaultRole));
         userRepo.save(newUser);
         return newUser;
     }
@@ -51,7 +54,7 @@ public class UserService {
     public void deleteUser(String name) {
         log.info("Delete user: " + name);
         Optional<User> user = userRepo.findByName(name);
-        if (user == null) return;
+        if (!user.isPresent()) return;
         userRepo.deleteByName(name);
     }
 
@@ -73,5 +76,15 @@ public class UserService {
         userRoles.remove(new Role(roleName));
         user.setRoles(userRoles);
         userRepo.save(user);
+    }
+
+    // Метод для Spring Security
+    @Override
+    public UserDetails loadUserByUsername(String userName) throws UsernameNotFoundException {
+        Optional<User> oUser = userRepo.findByName(userName);
+        if (!oUser.isPresent())
+            throw new UsernameNotFoundException("User not found");
+
+        return oUser.get();
     }
 }

@@ -518,3 +518,191 @@
 [INFO ] 2020-03-20 14:01:41 [Main] 2. postconstruct
 [INFO ] 2020-03-20 14:07:07 [Main] 2. postconstruct
 [INFO ] 2020-03-20 14:43:49 [Main] 2. postconstruct
+[INFO ] 2020-03-26 11:22:43 [Main] 2. postconstruct
+[INFO ] 2020-03-26 11:35:44 [Main] Starting Main on DESKTOP-KAMEVGM with PID 840 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 11:35:44 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 11:35:44 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 11:35:48 [Main] 2. postconstruct
+[INFO ] 2020-03-26 11:35:49 [Main] Started Main in 5.42 seconds (JVM running for 9.99)
+[INFO ] 2020-03-26 11:35:49 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 11:35:49 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 11:35:49 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 11:35:49 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 11:35:49 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 11:35:49 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 11:35:49 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 12:18:54 [Main] Starting Main on DESKTOP-KAMEVGM with PID 13044 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 12:18:54 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 12:18:54 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 12:18:58 [Main] 2. postconstruct
+[INFO ] 2020-03-26 12:18:58 [Main] Started Main in 4.07 seconds (JVM running for 7.173)
+[INFO ] 2020-03-26 12:18:58 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 12:18:58 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 12:18:58 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 12:18:58 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 12:18:58 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 12:18:58 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 12:18:58 [Main] [ru.alwertus.zerospring.auth.Role@bfb5e5a6, ru.alwertus.zerospring.auth.Role@bbe2fdf4]
+[INFO ] 2020-03-26 12:18:58 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 12:47:16 [Main] 2. postconstruct
+[INFO ] 2020-03-26 14:32:37 [Main] Starting Main on DESKTOP-KAMEVGM with PID 3132 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 14:32:38 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 14:32:38 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 14:32:42 [Main] 2. postconstruct
+[INFO ] 2020-03-26 14:32:43 [Main] Started Main in 5.577 seconds (JVM running for 8.216)
+[INFO ] 2020-03-26 14:32:43 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 14:32:43 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 14:32:43 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 14:32:43 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 14:32:43 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 14:32:43 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 14:32:43 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 14:45:25 [Main] Starting Main on DESKTOP-KAMEVGM with PID 2588 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 14:45:25 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 14:45:25 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 14:45:30 [Main] 2. postconstruct
+[INFO ] 2020-03-26 14:45:31 [Main] Started Main in 5.673 seconds (JVM running for 8.584)
+[INFO ] 2020-03-26 14:45:31 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 14:45:31 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 14:45:31 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 14:45:31 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 14:45:31 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 14:45:31 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 14:45:31 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 14:46:12 [Main] Starting Main on DESKTOP-KAMEVGM with PID 10316 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 14:46:12 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 14:46:12 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 14:46:17 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:11:56 [Main] Starting Main on DESKTOP-KAMEVGM with PID 12668 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:11:56 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:11:56 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:12:00 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:12:37 [Main] Starting Main on DESKTOP-KAMEVGM with PID 6008 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:12:37 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:12:37 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:12:42 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:12:42 [Main] Started Main in 5.066 seconds (JVM running for 7.977)
+[INFO ] 2020-03-26 15:12:42 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 15:12:42 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 15:12:42 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:12:42 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:12:42 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:12:42 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 15:12:42 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 15:22:22 [Main] Starting Main on DESKTOP-KAMEVGM with PID 4316 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:22:22 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:22:22 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:22:26 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:22:27 [Main] Started Main in 5.034 seconds (JVM running for 8.297)
+[INFO ] 2020-03-26 15:22:27 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 15:22:27 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 15:22:27 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:22:27 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:22:27 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:22:27 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 15:22:27 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 15:23:03 [Main] Starting Main on DESKTOP-KAMEVGM with PID 9512 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:23:03 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:23:03 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:23:09 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:23:09 [Main] Started Main in 6.983 seconds (JVM running for 10.387)
+[INFO ] 2020-03-26 15:23:09 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 15:23:09 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 15:23:09 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:23:09 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:23:09 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:23:09 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 15:23:09 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 15:26:50 [Main] Starting Main on DESKTOP-KAMEVGM with PID 14920 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:26:50 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:26:50 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:26:55 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:26:56 [Main] Started Main in 5.502 seconds (JVM running for 8.581)
+[INFO ] 2020-03-26 15:26:56 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 15:26:56 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 15:26:56 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:26:56 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:26:56 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:26:56 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 15:26:56 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 15:33:17 [Main] Starting Main on DESKTOP-KAMEVGM with PID 1772 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:33:17 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:33:17 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:34:36 [Main] Starting Main on DESKTOP-KAMEVGM with PID 8684 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:34:36 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:34:36 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:34:40 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:34:40 [Main] Started Main in 5.174 seconds (JVM running for 7.788)
+[INFO ] 2020-03-26 15:34:40 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 15:34:40 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 15:34:40 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:34:40 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:34:41 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:34:41 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 15:34:41 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 15:37:50 [Main] Starting Main on DESKTOP-KAMEVGM with PID 976 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 15:37:50 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 15:37:50 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 15:37:54 [Main] 2. postconstruct
+[INFO ] 2020-03-26 15:37:54 [Main] Started Main in 5.108 seconds (JVM running for 8.06)
+[INFO ] 2020-03-26 15:37:54 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 15:37:54 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-03-26 15:37:54 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:37:54 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:37:54 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 15:37:54 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 15:37:54 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 16:06:12 [Main] Starting Main on DESKTOP-KAMEVGM with PID 14476 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 16:06:12 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 16:06:12 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 16:06:21 [Main] 2. postconstruct
+[INFO ] 2020-03-26 16:06:22 [Main] Started Main in 10.768 seconds (JVM running for 13.97)
+[INFO ] 2020-03-26 16:06:22 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 16:07:16 [Main] Starting Main on DESKTOP-KAMEVGM with PID 12792 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 16:07:16 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 16:07:16 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 16:07:27 [Main] 2. postconstruct
+[INFO ] 2020-03-26 16:07:27 [Main] Started Main in 11.385 seconds (JVM running for 14.594)
+[INFO ] 2020-03-26 16:07:27 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 16:07:28 [Main] <ROLE_USER> : false
+[INFO ] 2020-03-26 16:07:28 [Main] <ROLE_USER> : true
+[INFO ] 2020-03-26 16:07:28 [Main] <ROLE_USER> : false
+[INFO ] 2020-03-26 16:07:28 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 16:07:28 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 16:07:28 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 16:11:11 [Main] Starting Main on DESKTOP-KAMEVGM with PID 12468 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 16:11:11 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 16:11:11 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 16:11:14 [Main] 2. postconstruct
+[INFO ] 2020-03-26 16:11:15 [Main] Started Main in 4.636 seconds (JVM running for 7.911)
+[INFO ] 2020-03-26 16:11:15 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 16:11:15 [Main] <ROLE_USER><ROLE_GOVNO> : false
+[INFO ] 2020-03-26 16:11:15 [Main] <ROLE_USER><ROLE_GOVNO> : true
+[INFO ] 2020-03-26 16:11:15 [Main] <ROLE_USER><ROLE_GOVNO> : true
+[INFO ] 2020-03-26 16:11:15 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 16:11:15 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 16:11:15 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-26 17:33:30 [Main] Starting Main on DESKTOP-KAMEVGM with PID 6732 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-26 17:33:30 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-26 17:33:30 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-26 17:33:35 [Main] 2. postconstruct
+[INFO ] 2020-03-26 17:33:35 [Main] Started Main in 5.834 seconds (JVM running for 8.57)
+[INFO ] 2020-03-26 17:33:35 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-26 17:33:36 [Main] <ROLE_USER><ROLE_GOVNO> : false
+[INFO ] 2020-03-26 17:33:36 [Main] <ROLE_USER><ROLE_GOVNO> : true
+[INFO ] 2020-03-26 17:33:36 [Main] <ROLE_USER><ROLE_GOVNO> : true
+[INFO ] 2020-03-26 17:33:36 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-26 17:33:36 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-26 17:33:36 [Main] ----- ===== END ===== -----
+[INFO ] 2020-03-27 12:29:27 [Main] Starting Main on DESKTOP-KAMEVGM with PID 16092 (D:\Projects\Java\zerospring\target\classes started by User in D:\Projects\Java\zerospring)
+[DEBUG] 2020-03-27 12:29:27 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-03-27 12:29:27 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-03-27 12:29:31 [Main] 2. postconstruct
+[INFO ] 2020-03-27 12:29:32 [Main] Started Main in 4.982 seconds (JVM running for 7.746)
+[INFO ] 2020-03-27 12:29:32 [Main] ----- ===== START ===== -----
+[INFO ] 2020-03-27 12:29:32 [Main] <ROLE_USER><ROLE_GOVNO> : false
+[INFO ] 2020-03-27 12:29:32 [Main] <ROLE_USER><ROLE_GOVNO> : true
+[INFO ] 2020-03-27 12:29:32 [Main] <ROLE_USER><ROLE_GOVNO> : true
+[INFO ] 2020-03-27 12:29:32 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-03-27 12:29:32 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-03-27 12:29:32 [Main] ----- ===== END ===== -----

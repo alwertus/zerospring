@@ -39,7 +39,6 @@ public class Main {
         log.info(user.getRolesAsString() + " : " + user.hasRole("ROLE_GOVNO"));
         userService.removeRole(user, "ROLE_ADMIN");
         log.info(user.getRolesAsString());
-
         log.info("----- ===== END ===== -----");
 
 //        userService.addRole(new User(), "ROLE_ADMIN");
