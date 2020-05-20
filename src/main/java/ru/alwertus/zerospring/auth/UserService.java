@@ -2,6 +2,8 @@ package ru.alwertus.zerospring.auth;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
@@ -32,7 +34,7 @@ public class UserService implements UserDetailsService {
         this.roleRepo = roleRepo;
         defaultRole = new HashSet<>();
 
-        defaultRole.add(getRole("ROLE_USER"));
+        defaultRole.add(getRole("ROLE_ANONYMOUS"));
     }
 
     // получить роль.
@@ -87,4 +89,11 @@ public class UserService implements UserDetailsService {
 
         return oUser.get();
     }
+
+    /*// Получить текущего пользователя
+    public static User getCurrentUser() {
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        User user = (User) auth.getPrincipal();
+        return user;
+    }*/
 }

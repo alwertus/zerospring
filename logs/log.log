@@ -706,3 +706,514 @@
 [INFO ] 2020-03-27 12:29:32 [Main] <ROLE_GOVNO><ROLE_USER> : true
 [INFO ] 2020-03-27 12:29:32 [Main] <ROLE_GOVNO><ROLE_USER>
 [INFO ] 2020-03-27 12:29:32 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-21 17:14:03 [Main] Starting Main on DESKTOP-ICFG8BV with PID 10664 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-21 17:14:03 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-21 17:14:03 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-21 17:14:27 [Main] 2. postconstruct
+[INFO ] 2020-04-21 17:14:27 [Main] Started Main in 24.929 seconds (JVM running for 27.347)
+[INFO ] 2020-04-21 17:14:27 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-21 17:14:29 [Main] <ROLE_USER> : false
+[INFO ] 2020-04-21 17:14:29 [Main] <ROLE_USER> : true
+[INFO ] 2020-04-21 17:14:29 [Main] <ROLE_USER> : false
+[INFO ] 2020-04-21 17:14:29 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:14:29 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-21 17:14:29 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-21 17:16:09 [Main] 2. postconstruct
+[INFO ] 2020-04-21 17:20:14 [Main] Starting Main on DESKTOP-ICFG8BV with PID 12380 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-21 17:20:14 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-21 17:20:14 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-21 17:20:17 [Main] 2. postconstruct
+[INFO ] 2020-04-21 17:20:17 [Main] Started Main in 3.92 seconds (JVM running for 5.277)
+[INFO ] 2020-04-21 17:20:17 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-21 17:20:17 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-21 17:20:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:20:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:20:18 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:20:18 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-21 17:20:18 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-21 17:29:14 [Main] Starting Main on DESKTOP-ICFG8BV with PID 7528 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-21 17:29:14 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-21 17:29:14 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-21 17:29:16 [Main] 2. postconstruct
+[INFO ] 2020-04-21 17:29:17 [Main] Started Main in 3.519 seconds (JVM running for 4.348)
+[INFO ] 2020-04-21 17:29:17 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-21 17:29:17 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-21 17:29:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:29:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:29:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:29:17 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-21 17:29:17 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-21 17:42:26 [Main] Starting Main on DESKTOP-ICFG8BV with PID 8248 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-21 17:42:26 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-21 17:42:26 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-21 17:42:30 [Main] 2. postconstruct
+[INFO ] 2020-04-21 17:42:30 [Main] Started Main in 4.543 seconds (JVM running for 5.499)
+[INFO ] 2020-04-21 17:42:30 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-21 17:42:30 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-21 17:42:30 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:42:30 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:42:31 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:42:31 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-21 17:42:31 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-21 17:44:39 [Main] Starting Main on DESKTOP-ICFG8BV with PID 3636 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-21 17:44:39 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-21 17:44:39 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-21 17:44:41 [Main] 2. postconstruct
+[INFO ] 2020-04-21 17:44:42 [Main] Started Main in 3.311 seconds (JVM running for 4.17)
+[INFO ] 2020-04-21 17:44:42 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-21 17:44:42 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-21 17:44:42 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:44:42 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:44:42 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-21 17:44:42 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-21 17:44:42 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-22 18:25:02 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5044 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 18:25:02 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 18:25:02 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 18:25:06 [Main] 2. postconstruct
+[INFO ] 2020-04-22 18:25:07 [Main] Started Main in 4.797 seconds (JVM running for 6.598)
+[INFO ] 2020-04-22 18:25:07 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-22 18:25:07 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 18:25:07 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 18:25:07 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 18:25:08 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 18:25:08 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 18:25:08 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-22 18:52:44 [Main] Starting Main on DESKTOP-ICFG8BV with PID 9084 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 18:52:44 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 18:52:44 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 18:52:47 [Main] 2. postconstruct
+[INFO ] 2020-04-22 18:52:47 [Main] Started Main in 3.417 seconds (JVM running for 4.346)
+[INFO ] 2020-04-22 18:52:47 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-22 18:52:47 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 18:52:47 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 18:52:47 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 18:52:48 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 18:52:48 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 18:52:48 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-22 19:04:16 [Main] Starting Main on DESKTOP-ICFG8BV with PID 3352 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 19:04:16 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 19:04:16 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 19:04:19 [Main] 2. postconstruct
+[INFO ] 2020-04-22 19:04:19 [Main] Started Main in 3.309 seconds (JVM running for 4.268)
+[INFO ] 2020-04-22 19:04:19 [Main] ----- ===== START ===== -----
+[INFO ] 2020-04-22 19:04:20 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 19:04:20 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:04:20 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:04:20 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:04:20 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 19:04:20 [Main] ----- ===== END ===== -----
+[INFO ] 2020-04-22 19:30:18 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5788 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 19:30:18 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 19:30:18 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 19:30:21 [Main] 2. postconstruct
+[INFO ] 2020-04-22 19:30:21 [Main] Started Main in 3.229 seconds (JVM running for 4.058)
+[INFO ] 2020-04-22 19:30:21 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 19:30:22 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 19:30:22 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:30:22 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:30:22 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:30:22 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 19:30:54 [Main] Starting Main on DESKTOP-ICFG8BV with PID 8304 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 19:30:54 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 19:30:54 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 19:30:57 [Main] 2. postconstruct
+[INFO ] 2020-04-22 19:30:58 [Main] Started Main in 3.715 seconds (JVM running for 4.617)
+[INFO ] 2020-04-22 19:30:58 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 19:30:58 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 19:30:58 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:30:58 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:30:58 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:30:58 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 19:30:58 [Main] Create book id=Optional[ru.alwertus.zerospring.delme.Book@1aaf46e6]
+[INFO ] 2020-04-22 19:30:58 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 19:38:29 [Main] Starting Main on DESKTOP-ICFG8BV with PID 4604 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 19:38:29 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 19:38:29 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 19:38:32 [Main] 2. postconstruct
+[INFO ] 2020-04-22 19:38:33 [Main] Started Main in 3.605 seconds (JVM running for 4.473)
+[INFO ] 2020-04-22 19:38:33 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 19:38:33 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 19:38:33 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:38:33 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:38:33 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:38:33 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 19:38:33 [Main] Create book id=8
+[INFO ] 2020-04-22 19:38:33 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 19:45:15 [Main] Starting Main on DESKTOP-ICFG8BV with PID 11776 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 19:45:15 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 19:45:15 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 19:45:18 [Main] 2. postconstruct
+[INFO ] 2020-04-22 19:45:18 [Main] Started Main in 3.371 seconds (JVM running for 4.642)
+[INFO ] 2020-04-22 19:45:18 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 19:45:19 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 19:45:19 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:45:19 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:45:19 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:45:19 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 19:45:19 [Main] Create book id=8
+[INFO ] 2020-04-22 19:45:19 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 19:49:14 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5132 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 19:49:14 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 19:49:14 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 19:49:16 [Main] 2. postconstruct
+[INFO ] 2020-04-22 19:49:17 [Main] Started Main in 3.237 seconds (JVM running for 4.12)
+[INFO ] 2020-04-22 19:49:17 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 19:49:17 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 19:49:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:49:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:49:17 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 19:49:17 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 19:49:17 [Main] Create book id=8
+[INFO ] 2020-04-22 19:49:17 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:09:44 [Main] Starting Main on DESKTOP-ICFG8BV with PID 116 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:09:44 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:09:44 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:09:47 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:09:47 [Main] Started Main in 3.649 seconds (JVM running for 6.139)
+[INFO ] 2020-04-22 20:09:47 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:09:48 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 20:09:48 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:09:48 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:09:48 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:09:48 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 20:09:48 [Main] Create book id=8
+[INFO ] 2020-04-22 20:09:48 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:15:28 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5648 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:15:28 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:15:28 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:15:31 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:15:31 [Main] Started Main in 3.3 seconds (JVM running for 4.339)
+[INFO ] 2020-04-22 20:15:31 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:15:31 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 20:15:31 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:15:31 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:15:32 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:15:32 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 20:15:32 [Main] Create book id=8
+[INFO ] 2020-04-22 20:15:32 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:17:17 [Main] Starting Main on DESKTOP-ICFG8BV with PID 2228 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:17:17 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:17:17 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:17:19 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:17:20 [Main] Started Main in 3.318 seconds (JVM running for 4.418)
+[INFO ] 2020-04-22 20:17:20 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:17:20 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 20:17:20 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:17:20 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:17:21 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:17:21 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 20:17:21 [Main] Create book id=8
+[INFO ] 2020-04-22 20:17:21 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:20:06 [Main] Starting Main on DESKTOP-ICFG8BV with PID 7048 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:20:06 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:20:06 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:20:09 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:20:09 [Main] Started Main in 3.181 seconds (JVM running for 4.265)
+[INFO ] 2020-04-22 20:20:09 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:20:09 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 20:20:09 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:20:09 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:20:10 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:20:10 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 20:20:10 [Main] Create book id=8
+[INFO ] 2020-04-22 20:20:10 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:22:03 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5164 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:22:03 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:22:03 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:22:05 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:22:06 [Main] Started Main in 3.635 seconds (JVM running for 5.0)
+[INFO ] 2020-04-22 20:22:06 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:22:06 [Main] <ROLE_GOVNO><ROLE_USER> : false
+[INFO ] 2020-04-22 20:22:06 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:22:06 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:22:06 [Main] <ROLE_GOVNO><ROLE_USER> : true
+[INFO ] 2020-04-22 20:22:06 [Main] <ROLE_GOVNO><ROLE_USER>
+[INFO ] 2020-04-22 20:22:06 [Main] Create book id=8
+[INFO ] 2020-04-22 20:22:06 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:38:26 [Main] Starting Main on DESKTOP-ICFG8BV with PID 9608 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:38:26 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:38:26 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:38:40 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:38:41 [Main] Started Main in 14.966 seconds (JVM running for 16.505)
+[INFO ] 2020-04-22 20:38:41 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:38:42 [Main] Create book id=8
+[INFO ] 2020-04-22 20:38:42 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:43:56 [Main] Starting Main on DESKTOP-ICFG8BV with PID 12116 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:43:56 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:43:56 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:43:58 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:43:59 [Main] Started Main in 3.385 seconds (JVM running for 4.683)
+[INFO ] 2020-04-22 20:43:59 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:43:59 [Main] Create book id=8
+[INFO ] 2020-04-22 20:43:59 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 20:47:05 [Main] Starting Main on DESKTOP-ICFG8BV with PID 4212 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 20:47:05 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 20:47:05 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 20:47:07 [Main] 2. postconstruct
+[INFO ] 2020-04-22 20:47:08 [Main] Started Main in 3.112 seconds (JVM running for 4.043)
+[INFO ] 2020-04-22 20:47:08 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 20:47:08 [Main] Create book id=8
+[INFO ] 2020-04-22 20:47:08 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:05:32 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:11:06 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:11:17 [Main] Starting Main on DESKTOP-ICFG8BV with PID 3300 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:11:17 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:11:17 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:11:19 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:11:20 [Main] Started Main in 3.335 seconds (JVM running for 4.245)
+[INFO ] 2020-04-22 21:11:20 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:11:20 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:11:20 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:11:20 [Main] Create book id=8
+[INFO ] 2020-04-22 21:11:20 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:19:27 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5912 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:19:27 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:19:27 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:19:30 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:19:30 [Main] Started Main in 3.057 seconds (JVM running for 3.875)
+[INFO ] 2020-04-22 21:19:30 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:19:30 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:19:30 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:19:30 [Main] Create book id=8
+[INFO ] 2020-04-22 21:19:30 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:21:33 [Main] Starting Main on DESKTOP-ICFG8BV with PID 2160 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:21:33 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:21:33 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:21:36 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:21:36 [Main] Started Main in 2.997 seconds (JVM running for 3.89)
+[INFO ] 2020-04-22 21:21:36 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:21:36 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:21:36 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:21:36 [Main] Create book id=8
+[INFO ] 2020-04-22 21:21:36 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:24:09 [Main] Starting Main on DESKTOP-ICFG8BV with PID 4432 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:24:09 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:24:09 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:24:12 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:24:12 [Main] Started Main in 3.139 seconds (JVM running for 4.192)
+[INFO ] 2020-04-22 21:24:12 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:24:13 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:24:13 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:24:13 [Main] Create book id=8
+[INFO ] 2020-04-22 21:24:13 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:26:17 [Main] Starting Main on DESKTOP-ICFG8BV with PID 6596 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:26:17 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:26:17 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:26:20 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:26:20 [Main] Started Main in 3.156 seconds (JVM running for 4.02)
+[INFO ] 2020-04-22 21:26:20 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:26:20 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:26:20 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:26:20 [Main] Create book id=8
+[INFO ] 2020-04-22 21:26:20 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:27:48 [Main] Starting Main on DESKTOP-ICFG8BV with PID 220 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:27:48 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:27:48 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:27:51 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:27:51 [Main] Started Main in 3.165 seconds (JVM running for 3.973)
+[INFO ] 2020-04-22 21:27:51 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:27:51 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:27:51 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:27:51 [Main] Create book id=8
+[INFO ] 2020-04-22 21:27:51 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:32:25 [Main] Starting Main on DESKTOP-ICFG8BV with PID 7896 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:32:25 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:32:25 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:32:41 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:32:41 [Main] Started Main in 16.145 seconds (JVM running for 17.054)
+[INFO ] 2020-04-22 21:32:41 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:32:42 [Main] <ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:32:42 [Main] <ROLE_ADMIN><ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:32:42 [Main] Create book id=8
+[INFO ] 2020-04-22 21:32:42 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:33:34 [Main] Starting Main on DESKTOP-ICFG8BV with PID 4656 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:33:34 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:33:34 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:33:37 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:34:01 [Main] Starting Main on DESKTOP-ICFG8BV with PID 10824 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:34:01 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:34:01 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:34:03 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:34:04 [Main] Started Main in 3.05 seconds (JVM running for 3.86)
+[INFO ] 2020-04-22 21:34:04 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:34:04 [Main] <ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:34:04 [Main] <ROLE_ADMIN><ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:34:04 [Main] Create book id=8
+[INFO ] 2020-04-22 21:34:04 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:37:49 [Main] Starting Main on DESKTOP-ICFG8BV with PID 9780 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:37:49 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:37:49 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:37:51 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:37:51 [Main] Started Main in 3.154 seconds (JVM running for 4.015)
+[INFO ] 2020-04-22 21:37:51 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:37:52 [Main] <ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:37:52 [Main] <ROLE_ADMIN><ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:37:52 [Main] Create book id=8
+[INFO ] 2020-04-22 21:37:52 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:39:43 [Main] Starting Main on DESKTOP-ICFG8BV with PID 8664 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:39:43 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:39:43 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:39:45 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:39:45 [Main] Started Main in 3.16 seconds (JVM running for 3.999)
+[INFO ] 2020-04-22 21:39:45 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:39:46 [Main] <ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:39:46 [Main] <ROLE_ADMIN><ROLE_ANONYMOUS>
+[INFO ] 2020-04-22 21:39:46 [Main] Create book id=8
+[INFO ] 2020-04-22 21:39:46 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:48:08 [Main] Starting Main on DESKTOP-ICFG8BV with PID 6032 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:48:08 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:48:08 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:48:10 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:48:11 [Main] Started Main in 3.147 seconds (JVM running for 4.003)
+[INFO ] 2020-04-22 21:48:11 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:48:12 [Main] <ROLE_USER>
+[INFO ] 2020-04-22 21:48:12 [Main] <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:48:12 [Main] Create book id=8
+[INFO ] 2020-04-22 21:48:12 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:52:39 [Main] Starting Main on DESKTOP-ICFG8BV with PID 6428 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:52:39 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:52:39 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:52:42 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:52:42 [Main] Started Main in 3.362 seconds (JVM running for 4.498)
+[INFO ] 2020-04-22 21:52:42 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:52:43 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 21:52:43 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:52:43 [Main] Create book id=8
+[INFO ] 2020-04-22 21:52:43 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:54:31 [Main] Starting Main on DESKTOP-ICFG8BV with PID 4052 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:54:31 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:54:31 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:54:33 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:55:03 [Main] Starting Main on DESKTOP-ICFG8BV with PID 7936 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:55:03 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:55:03 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:55:06 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:55:06 [Main] Started Main in 3.425 seconds (JVM running for 4.283)
+[INFO ] 2020-04-22 21:55:06 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:55:07 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 21:55:07 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:55:07 [Main] Create book id=8
+[INFO ] 2020-04-22 21:55:07 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:58:22 [Main] Starting Main on DESKTOP-ICFG8BV with PID 6696 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:58:22 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:58:22 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:58:24 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:58:25 [Main] Started Main in 3.176 seconds (JVM running for 4.043)
+[INFO ] 2020-04-22 21:58:25 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:58:27 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 21:58:27 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:58:27 [Main] Create book id=8
+[INFO ] 2020-04-22 21:58:27 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 21:59:55 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5684 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 21:59:55 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 21:59:55 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 21:59:58 [Main] 2. postconstruct
+[INFO ] 2020-04-22 21:59:58 [Main] Started Main in 3.15 seconds (JVM running for 3.998)
+[INFO ] 2020-04-22 21:59:58 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 21:59:59 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 21:59:59 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 21:59:59 [Main] Create book id=8
+[INFO ] 2020-04-22 21:59:59 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:12:43 [Main] Starting Main on DESKTOP-ICFG8BV with PID 6140 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:12:43 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:12:43 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:12:46 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:12:47 [Main] Started Main in 3.519 seconds (JVM running for 4.384)
+[INFO ] 2020-04-22 22:12:47 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:12:48 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:12:48 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:12:48 [Main] Create book id=8
+[INFO ] 2020-04-22 22:12:48 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:14:30 [Main] Starting Main on DESKTOP-ICFG8BV with PID 6348 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:14:30 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:14:30 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:14:33 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:14:33 [Main] Started Main in 3.187 seconds (JVM running for 4.105)
+[INFO ] 2020-04-22 22:14:33 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:14:34 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:14:34 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:14:34 [Main] Create book id=8
+[INFO ] 2020-04-22 22:14:34 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:17:50 [Main] Starting Main on DESKTOP-ICFG8BV with PID 10196 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:17:50 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:17:50 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:17:53 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:17:53 [Main] Started Main in 3.274 seconds (JVM running for 4.131)
+[INFO ] 2020-04-22 22:17:53 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:17:54 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:17:54 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:17:54 [Main] Create book id=8
+[INFO ] 2020-04-22 22:17:54 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:18:43 [Main] Starting Main on DESKTOP-ICFG8BV with PID 7444 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:18:43 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:18:43 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:18:46 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:18:46 [Main] Started Main in 3.428 seconds (JVM running for 4.302)
+[INFO ] 2020-04-22 22:18:46 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:18:47 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:18:47 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:18:47 [Main] Create book id=8
+[INFO ] 2020-04-22 22:18:47 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:19:08 [Main] Starting Main on DESKTOP-ICFG8BV with PID 5012 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:19:08 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:19:08 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:19:11 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:19:11 [Main] Started Main in 3.12 seconds (JVM running for 3.976)
+[INFO ] 2020-04-22 22:19:11 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:19:12 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:19:12 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:19:12 [Main] Create book id=8
+[INFO ] 2020-04-22 22:19:12 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:21:14 [Main] Starting Main on DESKTOP-ICFG8BV with PID 9208 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:21:14 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:21:14 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:21:16 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:21:17 [Main] Started Main in 3.025 seconds (JVM running for 3.813)
+[INFO ] 2020-04-22 22:21:17 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:21:18 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:21:18 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:21:18 [Main] Create book id=8
+[INFO ] 2020-04-22 22:21:18 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:22:52 [Main] Starting Main on DESKTOP-ICFG8BV with PID 10120 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:22:52 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:22:52 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:22:54 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:22:54 [Main] Started Main in 3.064 seconds (JVM running for 3.898)
+[INFO ] 2020-04-22 22:22:54 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:22:56 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:22:56 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:22:56 [Main] Create book id=8
+[INFO ] 2020-04-22 22:22:56 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:30:19 [Main] Starting Main on DESKTOP-ICFG8BV with PID 1800 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:30:19 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:30:19 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:30:22 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:30:22 [Main] Started Main in 3.298 seconds (JVM running for 4.164)
+[INFO ] 2020-04-22 22:30:22 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:30:23 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:30:23 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:30:23 [Main] Create book id=8
+[INFO ] 2020-04-22 22:30:23 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-04-22 22:30:43 [Main] Starting Main on DESKTOP-ICFG8BV with PID 3440 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-04-22 22:30:43 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-04-22 22:30:43 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-04-22 22:30:46 [Main] 2. postconstruct
+[INFO ] 2020-04-22 22:30:46 [Main] Started Main in 3.068 seconds (JVM running for 3.879)
+[INFO ] 2020-04-22 22:30:46 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-04-22 22:30:47 [Main] USER = <ROLE_USER>
+[INFO ] 2020-04-22 22:30:47 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-04-22 22:30:47 [Main] ASD = <ROLE_ASD>
+[INFO ] 2020-04-22 22:30:47 [Main] Create book id=8
+[INFO ] 2020-04-22 22:30:47 [Main] ----- ===== INIT END ===== -----
+[INFO ] 2020-05-20 17:18:07 [Main] Starting Main on DESKTOP-ICFG8BV with PID 11260 (D:\Projects\Java\Projects\Teaching\zerospring\target\classes started by Alwertus in D:\Projects\Java\Projects\Teaching\zerospring)
+[DEBUG] 2020-05-20 17:18:07 [Main] Running with Spring Boot v2.3.0.M3, Spring v5.2.4.RELEASE
+[INFO ] 2020-05-20 17:18:07 [Main] The following profiles are active: @spring.profiles.active@
+[INFO ] 2020-05-20 17:18:15 [Main] 2. postconstruct
+[INFO ] 2020-05-20 17:18:16 [Main] Started Main in 9.251 seconds (JVM running for 10.803)
+[INFO ] 2020-05-20 17:18:16 [Main] ----- ===== INIT START ===== -----
+[INFO ] 2020-05-20 17:18:21 [Main] USER = <ROLE_USER>
+[INFO ] 2020-05-20 17:18:21 [Main] ADMIN = <ROLE_USER><ROLE_ADMIN>
+[INFO ] 2020-05-20 17:18:21 [Main] ASD = <ROLE_ASD>
+[INFO ] 2020-05-20 17:18:21 [Main] Create book id=8
+[INFO ] 2020-05-20 17:18:21 [Main] ----- ===== INIT END ===== -----
